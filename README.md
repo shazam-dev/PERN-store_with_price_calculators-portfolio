@@ -3,7 +3,7 @@
 Main priority is stability of app:\
     &emsp;- typeScript (tsx) - strict type\
     &emsp;- testing react\
-        &emsp;&emsp;- jest \
+        &emsp;&emsp;- jest\
     &emsp;- error handling\
         &emsp;&emsp;- pm2 error log - для Node\
         &emsp;&emsp;- ErrorBoundary - для REACT\
